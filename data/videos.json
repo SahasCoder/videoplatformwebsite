@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "Sample Video 1",
+        "thumbnail": "https://via.placeholder.com/320x180",
+        "description": "This is a sample video description.",
+        "views": "1.2M",
+        "redirect": false,
+        "link": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+        "id": "2",
+        "title": "Sample Video 2",
+        "thumbnail": "https://via.placeholder.com/320x180",
+        "description": "Another video description here.",
+        "views": "900K",
+        "redirect": true,
+        "link": "https://example.com"
+    }
+]
